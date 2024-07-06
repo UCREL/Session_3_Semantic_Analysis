@@ -16,6 +16,18 @@ This repository includes the following files:
 
 3. **Excel Sheet:**
     - `usas_emo_classes.xlsx`: Detailed list of USAS emotion classes and their descriptions.
+      
+
+## Google Colaboratory
+To ensure you can make the most of the tutorial, it is crucial that you familiarize yourself with Google Colaboratory and Google Drive.
+
+Our session will involve:
+ - **Running Code in Google Colaboratory:** This is a cloud-based Jupyter notebook environment provided by Google, which allows you to write and execute Python code 
+   through your browser.
+ - **Setting File Paths in Google Colaboratory:** You will need to know how to navigate and manage file paths within this environment.
+ - **Mounting Google Drive in Google Colaboratory:** This will enable you to upload datasets from your Google Drive and save outputs directly to it.
+
+To help you get started, we recommend reviewing the following [Google Colab Tutorial](https://github.com/dml2611/google-colab-tutorial).
 
 
 ## Conclusion
