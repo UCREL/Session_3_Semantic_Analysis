@@ -1,6 +1,6 @@
 # Session 3: USAS-based Sentiment and Emotion Analysis
 
-This tutorial provides an introduction to using the UCREL Semantic Analysis System (USAS) for sentiment analysis. The focus is on the emotion semantic tags, specifically the Emotional Actions, States, and Processes General category. USAS contains 22 sentiment categories, which are visualized in the included `usas_emo_tags.png` file. The semantic tags often contain one or more ‘pluses’ or ‘minuses’ to indicate a positive or negative sentiment, and this tutorial demonstrates how to leverage these signs for sentiment classification.
+This tutorial provides an introduction to using the UCREL Semantic Analysis System (USAS) for sentiment analysis. The focus is on the emotion semantic tags, specifically the Emotional Actions, States, and Processes General category. USAS contains 22 sentiment categories. The semantic tags often contain one or more ‘pluses’ or ‘minuses’ to indicate a positive or negative sentiment, and this tutorial demonstrates how to leverage these signs for sentiment classification.
 
 
 ## Google Colaboratory
