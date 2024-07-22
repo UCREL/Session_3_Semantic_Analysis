@@ -2,6 +2,14 @@
 
 This tutorial provides an introduction to using the UCREL Semantic Analysis System (USAS) for sentiment analysis. The focus is on the emotion semantic tags, specifically the Emotional Actions, States, and Processes General category. USAS contains 22 emotion categories. The semantic tags often contain one or more ‘pluses’ or ‘minuses’ to indicate a positive or negative sentiment, and this tutorial demonstrates how to leverage these signs for sentiment classification.
 
+## Repository Contents
+
+This repository includes the following files:
+
+**Notebooks:**
+    - `usas_emotion_analysis.ipynb`: Contains a step-by-step method for tagging and extracting the sentiment (positive, negative, or neutral) of the given text at the sentence level using USAS.
+    - `dl_sentiment_classifier.ipynb`: Implementation of five deep learning models (T5, Roberta, RobertaGo, DistilBert, and NRCLex) for sentiment analysis, followed by a comparative analysis of these models with the USAS sentiment classifier.
+
 
 ## Google Colaboratory
 To ensure you can make the most of the tutorial, it is crucial that you familiarize yourself with Google Colaboratory and Google Drive.
