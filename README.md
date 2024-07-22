@@ -7,8 +7,8 @@ This tutorial provides an introduction to using the UCREL Semantic Analysis Syst
 This repository includes the following files:
 
 **Notebooks:**
-    - `usas_emotion_analysis.ipynb`: Contains a step-by-step method for tagging and extracting the sentiment (positive, negative, or neutral) of the given text at the sentence level using USAS.
-    - `dl_sentiment_classifier.ipynb`: Implementation of five deep learning models (T5, Roberta, RobertaGo, DistilBert, and NRCLex) for sentiment analysis, followed by a comparative analysis of these models with the USAS sentiment classifier.
+- `usas_emotion_analysis.ipynb`: Contains a step-by-step method for tagging and extracting the sentiment (positive, negative, or neutral) of the given text at the sentence level using USAS.
+- `dl_sentiment_classifier.ipynb`: Implementation of five deep learning models (T5, Roberta, RobertaGo, DistilBert, and NRCLex) for sentiment analysis, followed by a comparative analysis of these models with the USAS sentiment classifier.
 
 
 ## Google Colaboratory
